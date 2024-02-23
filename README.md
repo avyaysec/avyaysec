@@ -22,11 +22,27 @@ Self-taught Ethical Hacker and Full Stack Developer: Mastering the art of cybers
 
 # I KNOW :
 >LINUX
+>
+>
 >Zero Trust Architecture
+>
+>
 >SECURE ACCESS SERVICE EDGE
+>
+>
 >Quantum Cryptography
+>
+>
 >IoT Security
+>
+>
 >Container Security
+>
+>
 >GraphQL Security
+>
+>
 >Android App Bundles (AAB)
+>
+>
 >Industrial IoT (IIoT)
