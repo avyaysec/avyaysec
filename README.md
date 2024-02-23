@@ -2,14 +2,13 @@
 Ethical Hacker and Cybersecurity Researcher I'M on MISSION called self-discovery and continuous learning. 
 
 
-![hkk](https://github.com/avyaysec/-I-m-avyay/assets/155128248/55461ad9-a8a6-408f-b891-69d358d38e0e)
 
 
 
 🖱️ I’m currently working on Something
 
 
-🌱 I’m currently learning Web3 & Android Pentesting
+🌱 I’m currently learning Zero-Day Exploits
 
 
 👯 I’m looking to collaborate
